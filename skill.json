@@ -1,0 +1,20 @@
+{
+  "name": "genpark-tool-call-argument-accuracy-validator-skill",
+  "version": "1.0.0",
+  "description": "Strict type, range, and semantic key validator for agent tool call invocations",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "argument-validator",
+    "tool-call-accuracy",
+    "schema-validation",
+    "agent-benchmarks",
+    "evaluation",
+    "python-standard-library",
+    "agent-skills",
+    "parameter-check",
+    "developer-tools",
+    "quality-assurance"
+  ]
+}
