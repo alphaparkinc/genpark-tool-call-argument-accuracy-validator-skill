@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-tool-call-argument-accuracy-validator-skill"
+version = "1.0.0"
+description = "Strict type, range, and semantic key validator for agent tool call invocations"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
